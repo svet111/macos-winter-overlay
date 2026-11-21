@@ -4,6 +4,8 @@ I saw a short video on social media of a Mac desktop with snow piling up on the 
 
 Instead of reaching for Electron or Swift, I built it in pure Python using PyObjC to talk directly to macOS `AppKit` and `Quartz` APIs.
 
+https://github.com/user-attachments/assets/d1952341-8805-44d8-b503-701d92482263
+
 ## What it does
 
 - **Desktop-level overlay:** Sits right above your wallpaper (`kCGDesktopWindowLevel + 1`) and stays behind open application windows so it never gets in the way while studying or coding.
